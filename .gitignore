@@ -1,0 +1,18 @@
+# Pycache
+__pycache__/
+
+# Environment
+.env
+
+# Distribution
+build/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+lib/
+lib64/
+parts/
+sdist/
+var/
